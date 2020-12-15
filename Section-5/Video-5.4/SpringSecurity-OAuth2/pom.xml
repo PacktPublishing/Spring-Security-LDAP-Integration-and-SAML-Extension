@@ -10,7 +10,7 @@
 	<properties>
 		<jackson2.version>2.7.4</jackson2.version>
 		<servlet-api.version>3.0.1</servlet-api.version>
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
 	</properties>
 	<dependencies>
 		<dependency>
